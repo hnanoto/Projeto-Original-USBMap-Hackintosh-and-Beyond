@@ -1,6 +1,9 @@
 # Projeto-Original-USBMap-Hackintosh-and-Beyond
 Tutorial: Baixando e Configurando o USBMap Modificado
 
+www.youtube.com/@HackintoshAndBeyond
+discord.gg/5hvZ5u7QXQ
+
 Este tutorial explica como usar o script download_usbmap.py para baixar e configurar a versão mais recente do USBMap, uma ferramenta para mapeamento de portas USB em hackintoshes, junto com arquivos complementares que aprimoram sua funcionalidade e traduzem a interface para diferentes idiomas.
 
 Introdução:
